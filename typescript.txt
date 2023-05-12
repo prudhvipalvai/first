@@ -1,0 +1,2 @@
+typescript is superseet of the js
+it is very important to learn the typescript in the realworld
